@@ -1,17 +1,21 @@
-# [US/UK] Facebook-Clone
+# [US/UK] Digital Clock
 
 >Status: Finished 
 
-I made this digital clock using HTML, CSS and JS, as a way to improve my skills, I made the desktop version and the responsive version, I hope you like it.
+I made this clone of the Facebook webpage using HTML, CSS and JavaScript, I made the desktop version and also the responsive version, I hope you like it!
 
-link
+<https://felipemmoraes.github.io/Facebook-Clone/>
+
 
 Here are photos of how it turned out:
 
 ## Desktop Version
 
+![download](https://user-images.githubusercontent.com/94074894/161450144-d7be910c-ca8e-45a3-8fe4-e61edba4dfe6.png)
 
 ## Mobile Version
+
+![mobilefacebook](https://user-images.githubusercontent.com/94074894/161450179-cee3d680-0dad-4a05-ab4a-dc3207beeef5.png)
 
 
 
@@ -19,13 +23,14 @@ Here are photos of how it turned out:
 
 >Status: Terminado
 
-Fiz esse relogio digital utilizando HTML, CSS e JS, como forma de aprimorar minhas habilidades, fiz a versão para desktop e a versao responsiva, espero que gostem.
+Fiz esse clone da página do Facebook usando HTML, CSS e JavaScript, fiz a versão desktop e também a versão responsiva, espero que gostem!
 
-link
+<https://felipemmoraes.github.io/Facebook-Clone/>
 
 ## Desktop Version
 
-
+![download](https://user-images.githubusercontent.com/94074894/161450144-d7be910c-ca8e-45a3-8fe4-e61edba4dfe6.png)
 
 ## Mobile Version
 
+![mobilefacebook](https://user-images.githubusercontent.com/94074894/161450179-cee3d680-0dad-4a05-ab4a-dc3207beeef5.png)
